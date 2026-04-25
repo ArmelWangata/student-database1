@@ -64,3 +64,5 @@ cp students.csv students_test.csv
 ./insert_data.sh
 ./insert_data.sh
 ls --color=auto
+rm student_test.csv
+rm students_test.csv
